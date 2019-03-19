@@ -6,5 +6,5 @@ Upload files by clicking or dragging
 
 see https://github.com/bonjurmrfirst/ng4-files
 
-The repo is forced because Issue https://github.com/bonjurmrfirst/ng4-files/issues/21 ist still open and prevents using the
+The repo is forked because Issue https://github.com/bonjurmrfirst/ng4-files/issues/21 ist still open and prevents using the
 component in Angular >= 6
